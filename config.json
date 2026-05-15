@@ -1,5 +1,4 @@
 {
-  "url_aktif": "http://panel-legal.jhonaley.net:3241",
-  "updated_at": "2026-03-23T04:30:32.576Z",
-  "updated_by": "tuanmudaditz"
+  "base_url": "http://panel-legal.jhonaley.net:4011/api",
+  "backup_url": "http://panel-legal.jhonaley.net:4011/api"
 }
