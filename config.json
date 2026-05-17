@@ -1,9 +1,9 @@
 {
-  "mainServer":   "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
-  "rapsServer":   "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
-  "ratServer":    "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
-  "vpsServer":    "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
-  "publicServer": "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
-  "spamServer":   "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
-  "websocketUrl": "http://ditzsukajanda.panel-pterodactyl.my.id:2002"
+  "baseUrl": "http://lightprivate.sistems.tech:2061",
+  "infoServerUrl": "http://kenz.terminator.dev.jserver.web.id:2002",
+  "wsUrl": "wss://dayzxteam.serverku.space",
+  "externalApiUrl": "https://api.siputzx.my.id",
+  "telegramAdmin": "https://t.me/kizzyytsx",
+  "telegramChannel": "https://t.me/DEKZOFFICIAL",
+  "maintenanceMode": false
 }
