@@ -1,9 +1,9 @@
 {
-  "baseUrl": "http://lightprivate.sistems.tech:2061",
-  "infoServerUrl": "http://kenz.terminator.dev.jserver.web.id:2002",
-  "wsUrl": "wss://dayzxteam.serverku.space",
+  "baseUrl": "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
+  "infoServerUrl": "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
+  "wsUrl": "wss://team.serverku.space",
   "externalApiUrl": "https://api.siputzx.my.id",
-  "telegramAdmin": "https://t.me/kizzyytsx",
-  "telegramChannel": "https://t.me/DEKZOFFICIAL",
+  "telegramAdmin": "https://t.me/tuanmudaditz",
+  "telegramChannel": "https://t.me/aboutditzoffc",
   "maintenanceMode": false
 }
