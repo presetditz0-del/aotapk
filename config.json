@@ -1,3 +1,8 @@
 {
-  "baseUrl": "http://ditzsukajanda.panel-pterodactyl.my.id:2002"
+  "active_url": "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
+  "backup_urls": [
+    "http://ditzsukajanda.panel-pterodactyl.my.id:2002",
+    "http://ditzsukajanda.panel-pterodactyl.my.id:2002"
+  ],
+  "last_updated": "2024-01-01T00:00:00Z"
 }
